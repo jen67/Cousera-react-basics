@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cousera-react-basics/static/css/main.7fddd0a0.css",
+    "main.js": "/Cousera-react-basics/static/js/main.a24da477.js",
+    "static/js/787.a174f9e5.chunk.js": "/Cousera-react-basics/static/js/787.a174f9e5.chunk.js",
+    "static/media/bg4.jpg": "/Cousera-react-basics/static/media/bg4.833b1243acc6edb3d8e1.jpg",
+    "index.html": "/Cousera-react-basics/index.html",
+    "main.7fddd0a0.css.map": "/Cousera-react-basics/static/css/main.7fddd0a0.css.map",
+    "main.a24da477.js.map": "/Cousera-react-basics/static/js/main.a24da477.js.map",
+    "787.a174f9e5.chunk.js.map": "/Cousera-react-basics/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fddd0a0.css",
+    "static/js/main.a24da477.js"
+  ]
+}
